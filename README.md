@@ -1,5 +1,5 @@
 # Geodesic Solutions – Commercial Auctions & Classifieds Software
-
+# GEOCOREMAX.COM 
 Geocoremax.com proudly offers the latest commercial release of the original Geodesic Solutions Auctions & Classifieds Software. This platform powers scalable, feature-rich classified ads and auction sites.
 
 Need expert support, licenses, or custom development?  
