@@ -42,14 +42,14 @@ Geocoremax provides:
 - Dedicated support for legacy Geodesic clients
 - Migration, hosting, and performance consulting
 
-🔗 [Get in touch](https://geocoremax.com/contact)
+🔗 [Get in touch](https://geocoremax.com/index.php?a=28&b=136)
 
 ---
 
 ## 📚 Documentation
 
 Product documentation is available in our client forum portal.  
-To request access, please visit forum.geocoremax.com
+To request access, please visit [Forum](https://forum.geocoremax.com)
 
 ---
 
@@ -57,8 +57,8 @@ To request access, please visit forum.geocoremax.com
 
 Join our growing community of developers and site owners:
 - [Forum](https://forum.geocoremax.com)
-- [Announcements](https://geocoremax.com/blog)
-- [Knowledgebase](https://geocoremax.com/help)
+- [Announcements](https://forum.geocoremax.com/viewforum.php?f=3)
+- [Knowledgebase](https://geocoremax.com/viewforum.php?f=30)
 
 ---
 
@@ -69,6 +69,6 @@ All rights reserved © Geocoremax.com.
 
 ---
 
-> Powered by the legacy and innovation of **Geodesic Solutions**.
+> Powered by legacy and innovation **GEOCOREMAX.COM - Geodesic Solutions**.
 
 
